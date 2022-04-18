@@ -79,6 +79,7 @@ def delete_post(id :int):
 
 def test():
     print("hello world")
+    hello
     pass
 
 
