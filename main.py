@@ -77,10 +77,6 @@ def delete_post(id :int):
     return {Response(status_code=status.HTTP_204_NO_CONTENT)}
 
 
-def test():
-    print("hello world")
-    hello
-    pass
 
 
     
